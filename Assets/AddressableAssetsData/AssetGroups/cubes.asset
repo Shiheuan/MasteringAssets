@@ -18,7 +18,7 @@ MonoBehaviour:
   m_GUID: 5d0d6e2a7bce9384d90ecc88afcc8268
   m_SerializeEntries:
   - m_GUID: 14e91bced71403745a4fbcf45938de88
-    m_Address: Cube
+    m_Address: Cube1
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 7557791964842141535, guid: 14e91bced71403745a4fbcf45938de88,

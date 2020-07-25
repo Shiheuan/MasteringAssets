@@ -4,3 +4,4 @@ obj/
 .vscode/
 Build/
 .vs/
+*.csproj
